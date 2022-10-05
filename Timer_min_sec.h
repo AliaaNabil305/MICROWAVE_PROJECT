@@ -1,0 +1,1 @@
+void counts_min_sec(int min, int sec );

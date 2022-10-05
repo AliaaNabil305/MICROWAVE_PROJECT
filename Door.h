@@ -1,0 +1,1 @@
+void switches (void);
